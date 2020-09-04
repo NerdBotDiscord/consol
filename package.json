@@ -10,5 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/consolpack/consol.git"
   },
-  "author": "Igor"
+  "author": "Igor",
+"publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
