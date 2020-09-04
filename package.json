@@ -1,0 +1,14 @@
+{
+  "name": "consolpack",
+  "version": "14.0.0",
+  "description": "Feel useless!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/consolpack/consol.git"
+  },
+  "author": "Igor"
+}
